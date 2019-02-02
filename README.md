@@ -5,3 +5,5 @@ This is not the original source code (with contains credentials and private webs
 But it is a standalone working Python script.
 
 Running on Linux with this crontab: * * * * * cd /home/messenger/live/; ./main.py website.com/subfolder/file.php
+
+NB: I am not responsible for ban issues with your Messenger account, if it is not lightly used.
